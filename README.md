@@ -38,8 +38,8 @@ Description: Created a task management system using ASP.NET and C#, providing us
 Contact
 Feel free to reach out to me for collaboration, inquiries, or just to say hello!
 
-Email: gerald.mico@example.com
-LinkedIn: Gerald Mico on LinkedIn
-Portfolio: Gerald Mico Portfolio
+Email: gmfacistol@outlook.com / revcoreitsolution@gmail.com
+LinkedIn: [Gerald Mico on LinkedIn](https://www.linkedin.com/in/gerald-mico-6b26b2241/)
+
 Let's Connect!
 I'm always open to new opportunities, collaboration, and discussions. Let's connect and build amazing things together!
