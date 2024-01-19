@@ -4,7 +4,7 @@ Welcome to my GitHub repository! I'm Gerald Mico, a passionate fullstack develop
 About Me
 I am a dedicated and experienced fullstack developer with a focus on creating robust and scalable web applications. My proficiency spans various programming languages, frameworks, and databases, making me versatile in handling end-to-end development projects.
 
-Skills
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=WizKaMico)](https://github.com/ryo-ma/github-profile-trophy)
 
 
