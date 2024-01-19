@@ -6,6 +6,10 @@ I am a dedicated and experienced fullstack developer with a focus on creating ro
 
 Skills
 [![trophy](https://github-profile-trophy.vercel.app/?username=WizKaMico)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+
+
 Frontend Development:
 
 React
