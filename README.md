@@ -5,7 +5,7 @@ About Me
 I am a dedicated and experienced fullstack developer with a focus on creating robust and scalable web applications. My proficiency spans various programming languages, frameworks, and databases, making me versatile in handling end-to-end development projects.
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=WizKaMico)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=WizKaMico&theme=kimbie_dark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
